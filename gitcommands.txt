@@ -1,5 +1,4 @@
-addd
+add -A
+git status
+git commit -m
 git push
-add more
-ajuuu
-evvv
